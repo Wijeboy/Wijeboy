@@ -1,4 +1,4 @@
-
+ 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Welcome Developers +%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
@@ -7,14 +7,15 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Pramod Wijenayake</h1>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Pramod Wijenayake</h1>
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast | Youtuber</h3>
 <h3 align="center">Explore the Creations of a Passionate Frontend and Backend Developer from Sri Lanka on GitHub</h3>
 
 
 <div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+<br>
+<img " height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif"  alt="Welcome! bvxbgfb" />
 
 </div>
 
@@ -32,14 +33,16 @@ Ask me anything
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wijeboy&label=Profile%20views&color=0e75b6&style=flat" alt="wijeboy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wijeboy" alt="wijeboy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/wijeboy2001" target="blank"><img src="https://img.shields.io/twitter/follow/wijeboy2001?logo=twitter&style=for-the-badge" alt="wijeboy2001" /></a> </p>
-
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 - 🔭 I’m currently working on **ITP Project using MERN**
 
 - 🌱 I’m currently learning **MERN,JAVA,C and C++**
@@ -53,6 +56,16 @@ Ask me anything
 - 📫 How to reach me **wijeboy2001@gmail.com**
 
 - ⚡ Fun fact **Call me as WIJEBOY**
+
+  </td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,7 +84,10 @@ Ask me anything
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wijeboy&" alt="wijeboy" /></p>
 
+
+
 <div align=center>
+  <img alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 <!-- retro visitor counter -->  
@@ -100,3 +116,7 @@ Ask me anything
 
 
 ------
+
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
