@@ -37,7 +37,6 @@ Ask me anything
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wijeboy&label=Profile%20views&color=0e75b6&style=flat" alt="wijeboy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wijeboy" alt="wijeboy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/wijeboy2001" target="blank"><img src="https://img.shields.io/twitter/follow/wijeboy2001?logo=twitter&style=for-the-badge" alt="wijeboy2001" /></a> </p>
 <table align="center">
@@ -88,6 +87,8 @@ Ask me anything
 
 <div align=center>
   <img alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+ 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wijeboy" alt="wijeboy" /></a> </p>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 <!-- retro visitor counter -->  
