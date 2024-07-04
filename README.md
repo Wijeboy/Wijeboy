@@ -42,6 +42,7 @@ Ask me anything
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
+ 
 - 🔭 I’m currently working on **ITP Project using MERN**
 
 - 🌱 I’m currently learning **MERN,JAVA,C and C++**
