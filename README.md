@@ -1,4 +1,14 @@
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Welcome developers+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Pramod Wijenayake</h1>
+<h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast | Youtuber</h3>
 <h3 align="center">Explore the Creations of a Passionate Frontend and Backend Developer from Sri Lanka on GitHub</h3>
 
 
@@ -18,6 +28,11 @@ Ask me anything
 <i>Happy Coding!</i> 😊
 
 </div>
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wijeboy&label=Profile%20views&color=0e75b6&style=flat" alt="wijeboy" /> </p>
 
@@ -55,3 +70,33 @@ Ask me anything
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wijeboy&show_icons=true&locale=en" alt="wijeboy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wijeboy&" alt="wijeboy" /></p>
+
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Wijeboy/count.svg" />  
+</p>
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <br>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+
+
+------
